@@ -57,6 +57,7 @@ meuIphone.iniciarCorreioVoz();
 meuIphone.exibirPagina("https://www.example.com");
 meuIphone.adicionarNovaAba();
 meuIphone.atualizarPagina();
+```
 
 ## Diagrama UML
 
