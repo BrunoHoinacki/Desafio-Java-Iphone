@@ -57,3 +57,7 @@ meuIphone.iniciarCorreioVoz();
 meuIphone.exibirPagina("https://www.example.com");
 meuIphone.adicionarNovaAba();
 meuIphone.atualizarPagina();
+
+## Diagrama UML
+
+![Diagrama UML](https://github.com/BrunoHoinacki/Desafio-Java-Iphone/blob/main/docs/uml/UML%20Iphone.png?raw=true)
